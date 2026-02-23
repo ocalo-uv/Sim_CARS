@@ -36,7 +36,7 @@ Si quieres ejecutar este proyecto localmente para desarrollo:
 
 ## Despliegue
 
-El proyecto está configurado para despliegue continuo. Puedes ver la versión en vivo aquí: (pendiente vínculo)
+El proyecto está configurado para despliegue continuo. Puedes ver la versión en vivo aquí: [https://sim-cars.vercel.app/](https://sim-cars.vercel.app/)
 
 ## Licencia
 
